@@ -55,6 +55,7 @@ public class Main {
                         if (musica.getNome().equals(titulo2)) {
                             musicList.remove(musica);
                             break;
+
                         }
                     }
                     break;
